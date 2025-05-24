@@ -1,0 +1,3 @@
+# In case anyone accidentally puts it in this directory...
+.env
+.env.local
