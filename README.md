@@ -1,11 +1,11 @@
 ﻿# NEFAC WordPress Training
 This is a training project that will help you familiarize yourself with the [Faust.js](https://faustjs.org/) library and the WordPress API, through which we will use WordPress as a headless CMS for our NextJS website.
 - **Required** by next meeting - https://faustjs.org/docs/tutorial/learn-faust/ (est. 1 hour)
- - In this tutorial, you'll download a template project with a local WordPress environment, set up the relevant plugins, and build a basic Faust.js app. The tutorial is very detailed, so by the end, you'll understand a lot of the essential concepts.
- - NOTE if you are on **Windows** please see the troubleshooting section!
+  - In this tutorial, you'll download a template project with a local WordPress environment, set up the relevant plugins, and build a basic Faust.js app. The tutorial is very detailed, so by the end, you'll understand a lot of the essential concepts.
+  - NOTE if you are on **Windows** please see the troubleshooting section!
 - **Strongly recommended** additional tutorial - https://faustjs.org/docs/how-to/custom-blocks/ (est. 30 mins)
- - This tutorial shows how you can override the rendering of the Code Block which is provided by WordPress. However, the code is very similar for custom blocks we can create that are modeled after our own React components. This is something we will be doing often in the future.
- - You can skip part 6, but read through it so you can see a real use case for this
+  - This tutorial shows how you can override the rendering of the Code Block which is provided by WordPress. However, the code is very similar for custom blocks we can create that are modeled after our own React components. This is something we will be doing often in the future.
+  - You can skip part 6, but read through it so you can see a real use case for this
 - If you are stuck, see the troubleshooting section below or ask for help!
 
 ## Resources
