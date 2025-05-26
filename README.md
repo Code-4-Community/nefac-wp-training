@@ -19,6 +19,7 @@ This is a training project that will help you familiarize yourself with the [Fau
 ## Troubleshooting
 ### Main Tutorial
 - If you are on **Windows**, you will likely encounter an error when running `npm run wp-dev`. This is a bug and I have made issues on the relevant repositories to hopefully get it fixed. In the meantime, unfortunately, you may need to use [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) or [Docker Desktop](https://www.docker.com/products/docker-desktop/). Really sorry about the added complexity, it's supposed to work out of the box. Let me know if you need help setting up.
+    - See https://github.com/WordPress/playground-tools/issues/375 and https://github.com/WordPress/wordpress-playground/issues/2217
 - In the [Template Hierarchy](https://faustjs.org/docs/tutorial/learn-faust/#add-a-template) section of the tutorial, when you're told to copy and paste the `SingleTemplate.query` assignment into `wp-templates/page.js`, you also have to change all occurrences of "post" to "page" within the GraphQL query itself. This isn't explicitly written in the instructions, but the change is reflected in the included code.
 - I was having an SSL issue when trying to [preview draft posts](https://faustjs.org/docs/tutorial/learn-faust/#2-preview-a-draft-post). I'm fairly certain it will work in production, so you can ignore that issue for now if you encounter it.
 
